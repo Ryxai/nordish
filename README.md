@@ -1,4 +1,4 @@
-# roamtheme
+# A Nordish Roam Theme
 A roam research theme based on the nord one by elode. 
 
 ## Installation
